@@ -2,7 +2,7 @@ repo_name: tdubs42/javascript-essential-training-2832077
 report_id: 6faedcb7b064acee90379fd0fb6bcc4d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:06:21+00:00'
+timestamp: '2024-02-29T18:23:26+00:00'
 requested_by: mor10
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   detection_source_url: https://github.com/tdubs42/javascript-essential-training-2832077
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.1.2
   license: MIT
